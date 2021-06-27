@@ -1,0 +1,17 @@
+C:\Users\sbhamidipati2\source\repos\ConceptsExample\obj\Debug\ConceptsExample.csprojAssemblyReference.cache
+C:\Users\sbhamidipati2\source\repos\ConceptsExample\obj\Debug\ConceptsExample.csproj.CoreCompileInputs.cache
+C:\Users\sbhamidipati2\source\repos\ConceptsExample\bin\Debug\ConceptsExample.exe.config
+C:\Users\sbhamidipati2\source\repos\ConceptsExample\bin\Debug\ConceptsExample.exe
+C:\Users\sbhamidipati2\source\repos\ConceptsExample\bin\Debug\ConceptsExample.pdb
+C:\Users\sbhamidipati2\source\repos\ConceptsExample\obj\Debug\ConceptsExample.exe
+C:\Users\sbhamidipati2\source\repos\ConceptsExample\obj\Debug\ConceptsExample.pdb
+C:\Srinivas Onedrive\tfs\ConceptsExample\bin\Debug\ConceptsExample.exe.config
+C:\Srinivas Onedrive\tfs\ConceptsExample\bin\Debug\ConceptsExample.exe
+C:\Srinivas Onedrive\tfs\ConceptsExample\bin\Debug\ConceptsExample.pdb
+C:\Srinivas Onedrive\tfs\ConceptsExample\bin\Debug\Newtonsoft.Json.dll
+C:\Srinivas Onedrive\tfs\ConceptsExample\bin\Debug\Newtonsoft.Json.xml
+C:\Srinivas Onedrive\tfs\ConceptsExample\obj\Debug\ConceptsExample.csprojAssemblyReference.cache
+C:\Srinivas Onedrive\tfs\ConceptsExample\obj\Debug\ConceptsExample.csproj.CoreCompileInputs.cache
+C:\Srinivas Onedrive\tfs\ConceptsExample\obj\Debug\ConceptsExample.csproj.CopyComplete
+C:\Srinivas Onedrive\tfs\ConceptsExample\obj\Debug\ConceptsExample.exe
+C:\Srinivas Onedrive\tfs\ConceptsExample\obj\Debug\ConceptsExample.pdb

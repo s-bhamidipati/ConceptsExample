@@ -10,6 +10,13 @@ namespace ConceptsExample
 {
     class XMLtoJSON
     {
+        public static void Method(ref string i,out int j)
+        {
+            i = "Srinivas";
+            j = 10;
+        }
+
+
         public static void Main()
         {
             string xml = @"<Invoice>
@@ -24,6 +31,10 @@ namespace ConceptsExample
             xdoc.Load(xml);
 
             var json = JsonConvert.SerializeXmlNode(xdoc, Newtonsoft.Json.Formatting.Indented, true);
+
+            string p="";
+            int j;
+            Method(ref p,out j);
         }
     }
 }
